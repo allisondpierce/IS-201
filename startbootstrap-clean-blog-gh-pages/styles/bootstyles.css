@@ -1,0 +1,32 @@
+.common{
+    text-align: center;
+    position: static;
+}
+
+.header{
+    height:150px; 
+    background-color: lightgray;
+    font-size:larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainbody{
+    background-color: lightblue;
+    right:5px;
+    left:5px;
+    font-size:medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer{
+    height:50px;
+    background-color: lightsalmon;
+    line-height:50px;
+    font-size:medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: rgb(79, 87, 95);
+    border: 2px solid black;
+}
